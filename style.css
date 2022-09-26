@@ -4,4 +4,11 @@ body {
 }
 main{
     margin: 50px;
+    background-color: aliceblue;
+}
+.container{
+    background-color: antiquewhite;
+}
+canvas{
+    width: 100%;
 }
